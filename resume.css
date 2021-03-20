@@ -2,7 +2,7 @@ body{
     margin:0px;
 }
 #body-header{
-    height:65vh;
+    height:55vh;
     background: url(main.jpg) no-repeat center fixed;
     background-size:cover;
     background-position: center;
